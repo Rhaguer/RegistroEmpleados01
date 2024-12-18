@@ -37,7 +37,7 @@ namespace RegistroEmpleados.AppMovil
             {
                 client.Child("Cursos").PostAsync(new Curso { Nombre = "1ro Básico" });
                 client.Child("Cursos").PostAsync(new Curso { Nombre = "3ro Medio" });
-                client.Child("Cursos").PostAsync(new Curso { Nombre = "4do Medio" });
+                client.Child("Cursos").PostAsync(new Curso { Nombre = "4to Medio" });
             }
         }
     }
