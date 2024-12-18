@@ -36,8 +36,8 @@ namespace RegistroEmpleados.AppMovil
             if (cargos.Result.Count == 0) 
             {
                 client.Child("Cursos").PostAsync(new Curso { Nombre = "1ro Básico" });
-                client.Child("Cursos").PostAsync(new Curso { Nombre = "1ro Medio" });
-                client.Child("Cursos").PostAsync(new Curso { Nombre = "2do Medio" });
+                client.Child("Cursos").PostAsync(new Curso { Nombre = "3ro Medio" });
+                client.Child("Cursos").PostAsync(new Curso { Nombre = "4do Medio" });
             }
         }
     }
