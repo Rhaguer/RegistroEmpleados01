@@ -1,6 +1,4 @@
-﻿using Foundation;
-
-namespace RegistroEmpleados.AppMovil
+﻿namespace RegistroEmpleados.AppMovil
 {
     [Register("AppDelegate")]
     public class AppDelegate : MauiUIApplicationDelegate

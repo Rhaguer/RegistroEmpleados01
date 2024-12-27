@@ -1,7 +1,4 @@
-﻿using ObjCRuntime;
-using UIKit;
-
-namespace RegistroEmpleados.AppMovil
+﻿namespace RegistroEmpleados.AppMovil
 {
     public class Program
     {
