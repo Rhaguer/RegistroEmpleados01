@@ -1,7 +1,4 @@
-﻿using Android.App;
-using Android.Runtime;
-
-namespace RegistroEmpleados.AppMovil
+﻿namespace RegistroEmpleados.AppMovil
 {
     [Application]
     public class MainApplication : MauiApplication

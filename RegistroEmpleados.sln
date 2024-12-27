@@ -1,11 +1,16 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35514.174 d17.12
+VisualStudioVersion = 17.12.35514.174
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegistroEmpleados.AppMovil", "RegistroEmpleados.AppMovil\RegistroEmpleados.AppMovil.csproj", "{55BC3F44-C809-4D0A-A802-6D7FCFF29319}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegistroEmpleados.Modelos", "RegistroEmpleados.Modelos\RegistroEmpleados.Modelos.csproj", "{A85AC185-6D30-45D3-84A9-16FA803A6C44}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{428997A3-4CB8-499B-AACE-1F447531717B}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
